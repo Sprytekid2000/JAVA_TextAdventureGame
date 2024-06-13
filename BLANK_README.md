@@ -19,11 +19,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][[forks-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/forks)]
-[![Stargazers][stars-shield]][[stars-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/stargazers)]
-[![Issues][issues-shield]][[issues-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/issues)]
-[![MIT License][license-shield]][[license-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/blob/master/LICENSE.txt]
-[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/jeremy-andrews-dehart-331512177)]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -218,16 +218,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/Sprytekid2000/JAVA_TextAdventure.svg?style=for-the-badge
 [contributors-url]: https://github.com/Sprytekid2000/JAVA_TextAdventureGame/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/Sprytekid2000/JAVA_TextAdventure.svg?style=for-the-badge
+[forks-url]: https://github.com/Sprytekid2000/JAVA_TextAdventureGame/network/members
+[stars-shield]: https://img.shields.io/github/stars/Sprytekid2000/JAVA_TextAdventure.svg?style=for-the-badge
+[stars-url]: https://github.com/Sprytekid2000/JAVA_TextAdventureGame/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Sprytekid2000/JAVA_TextAdventure.svg?style=for-the-badge
+[issues-url]: https://github.com/Sprytekid2000/JAVA_TextAdventureGame/issues
+[license-shield]: https://img.shields.io/github/license/Sprytekid2000/JAVA_TextAdventure.svg?style=for-the-badge
+[license-url]: https://github.com/Sprytekid2000/JAVA_TextAdventureGame/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/jeremy-andrews-dehart-331512177
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
