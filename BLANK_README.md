@@ -18,7 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][[contributors-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/graphs/contributors)]
+[![Contributors][contributors-shield]][(https://github.com/Sprytekid2000/JAVA_TextAdventureGame/graphs/contributors)]
 [![Forks][forks-shield]][[forks-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/forks)]
 [![Stargazers][stars-shield]][[stars-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/stargazers)]
 [![Issues][issues-shield]][[issues-url](https://github.com/Sprytekid2000/JAVA_TextAdventureGame/issues)]
